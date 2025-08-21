@@ -76,7 +76,13 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 ## 📚 Additional Resources
 
-**New!** Check out our comprehensive guide: **[Browser-Based Development Environments](./browser-development-guide.md)** - Learn how to use advanced cloud IDEs, GitHub Codespaces, and AI-powered development tools that run entirely in your browser!
+### 🌟 **New Guides Available!**
+
+1. **[Browser-Based Development Environments](./browser-development-guide.md)** - Complete guide to cloud IDEs, GitHub Codespaces, and AI-powered development tools
+2. **[Gemini AI Integration Guide](./gemini-integration-guide.md)** - Step-by-step instructions for integrating Gemini AI in browser environments (Hindi/English)
+3. **[Quick Links Card](./quick-links.md)** - All direct links and quick setup commands for instant access
+
+**Perfect for**: Chrome, Edge, Firefox browsers | Supports: Windows, Mac, Linux, Mobile
 
 ---
 
