@@ -74,6 +74,12 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 ---
 
+## 📚 Additional Resources
+
+**New!** Check out our comprehensive guide: **[Browser-Based Development Environments](./browser-development-guide.md)** - Learn how to use advanced cloud IDEs, GitHub Codespaces, and AI-powered development tools that run entirely in your browser!
+
+---
+
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
